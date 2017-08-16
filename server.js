@@ -21,7 +21,7 @@ var articles = {
                     This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
                 </p>`
     },
-    'article-two ': {
+    'article-two': {
         title: 'Article Two | Danish khan',
         heading: 'Article Two',
         date: 'Aug 20, 2017',
