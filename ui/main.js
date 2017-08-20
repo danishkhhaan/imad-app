@@ -1,5 +1,5 @@
 // counter code
-var button = document.getElementByID('counter');
+var button = document.getElementById('counter');
 var counter = 0;
 
 button.onclick = fucntion () {
@@ -11,4 +11,4 @@ button.onclick = fucntion () {
     counter = counter + 1;
     var span = document.getElementByID('count');
     span.innerHTML = counter.toString();
-};
+}
